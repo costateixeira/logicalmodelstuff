@@ -107,8 +107,8 @@ pages:
       title: Reference Implementations
     trust_domain.md:
       title: Trust Domains
-    downloads.md: 
-      title: Downloads
+    # downloads.md: 
+    #   title: Downloads
   indices.md:
     title: Indices
     artifacts.html: 
@@ -147,7 +147,7 @@ menu:
     Test Data: test-data.html
     Reference Implementations: reference-implementations.html
     Trust Domains: trust_domain.html
-    Downloads: downloads.html
+    # Downloads: downloads.html
 
   Indices:
     Artifact Index: artifacts.html

@@ -39,7 +39,7 @@ This guide assumes use of the following resources:
 * [CPG ActivityDefinitions](https://hl7.org/fhir/uv/cpg/artifacts.html#activitydefinition-index)
 
 - For a complete listing of the artifacts defined in this implementation guide, refer to the [Artifact Index](artifacts.html).
-- A complete offline copy of this implementation guide can be found on the [Downloads](downloads.html) page.
+<!-- - A complete offline copy of this implementation guide can be found on the [Downloads](downloads.html) page. -->
 
 - This Implementation Guide makes use of [Clinical Quality Language](https://cql.hl7.org/) for the decision support artifacts including the PlanDefinitions and Measures. They are used to express how a calculation should occur and can be used with a CQL engine in order to process the decision or indicator directly from the applicable FHIR resources. Links to this specification, the FHIR Clinical Practice Guidelines Speciciation, and other helpful resources can be found in the Support dropdown.
 
